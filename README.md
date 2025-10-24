@@ -6,7 +6,7 @@ This repository contains the **first NLP Bootcamp assignment**, applying text pr
 - **Content Used:** Customer review text column  
 
 > ⚠️ **Note:** To run the code, update the dataset path in the Jupyter notebook to match your local installation.
-# 📝 NLP Bootcamp Assignment 1
+# 📝 Assignment 1
 
 ## ✨ Preprocessing
 - Lowercasing  
@@ -19,3 +19,19 @@ This repository contains the **first NLP Bootcamp assignment**, applying text pr
 - **TF-IDF**  
 - **One-Hot Encoding**  
 - **Word2Vec (CBOW)**
+
+- # 📝 Assignment 2: Sentiment Analysis with Feedforward Neural Network
+
+This assignment implements a **feedforward neural network (FFNN)** for **sentiment analysis** on a subset of the **Yelp review dataset**.
+
+## 🔹 Key Features
+
+- ⚡ Built using **PyTorch** (`nn.Module`) for flexible model architecture  
+- 🏃‍♂️ Trained with **Stochastic Gradient Descent (SGD)** optimizer  
+- 💧 Tested **dropout** at various rates to study its effect on model performance  
+- 📄 Input: **Bag-of-Words vectors** from preprocessed Yelp reviews  
+- 🎯 Output: **Multi-class sentiment prediction**
+
+## 🎯 Purpose
+
+To explore the impact of **dropout regularization** and **SGD optimization** on FFNN performance for text classification tasks.
