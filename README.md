@@ -20,7 +20,7 @@ This repository contains the **first NLP Bootcamp assignment**, applying text pr
 - **One-Hot Encoding**  
 - **Word2Vec (CBOW)**
 
-- # 📝 Assignment 2: Sentiment Analysis with Feedforward Neural Network
+# 📝 Assignment 2: Sentiment Analysis with Feedforward Neural Network
 
 This assignment implements a **feedforward neural network (FFNN)** for **sentiment analysis** on a subset of the **Yelp review dataset**.
 
